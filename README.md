@@ -4,6 +4,10 @@ appropriate SIP provider. If your office or home phone works via SIP,
 you can use that phone number on your Mac anywhere you have decent
 internet connection.
 
+## Before you start
+
+Make sure XCode is installed on your Mac .
+
 ## Building
 
 ### Opus
