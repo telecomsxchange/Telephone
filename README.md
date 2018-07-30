@@ -61,6 +61,10 @@ Build and install (remove `--with-opus` option if you don’t need Opus):
     
 Build Telephone.
 
+cd /path/To/Telephone-Project/Telephone
+
+xcodebuild -project Telephone.xcodeproj -alltargets -configuration Release
+
 ## Contribution
 
 For the legal reasons, pull requests are not accepted. Please feel
